@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.title{
+    text-align: center;
+}
+.title p{
+    line-height:80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.one{
+    text-align: center;
+    padding: 20px 0;
+}
+.one img{
+    height: 200px;
+}
+.two{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+}
+.two p a{
+    color: #000;
+    line-height:80px;
+}
+.three{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px 0;
+    text-align: center;
+    height: 200px;
+}
+.thl{
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+.thr{
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+.three img{
+    height: 150px;
+}
+.three p{
+    line-height: 50px;
+}
+.tu{
+    text-align: center;
+    padding: 20px 0;
+}
+.tu img{
+    height: 150px;
+}
+.tu p{
+    line-height:50px;
+}
+.zi{
+    text-align: center;
+    height: 80px;
+}
+.zi p{
+    line-height:80px;
+}
